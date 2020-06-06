@@ -1,0 +1,7 @@
+**/jsconfig.json
+**/.eslintrc.json
+.sfdx/*
+scripts/*
+
+# Profiles
+force-app/main/default/profiles/*
