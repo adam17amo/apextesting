@@ -2,3 +2,4 @@
 **/.eslintrc.json
 .sfdx/*
 scripts/*
+.prettierignore
